@@ -1,5 +1,5 @@
 <?php
-$host = "https://databases-auth.000webhost.com/index.php";
+$host = "databases.000webhost.com";
 $user = "id15097840_movie";
 $pass = "ols%brUJxRc6FT*g";
 $dbname = "id15097840_mv";
